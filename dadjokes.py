@@ -8,7 +8,6 @@ where subject is a keyword to search in the dad jokes database.
 
 '''
 
-import requests
 
 from sys import argv
 import dadjokes_api

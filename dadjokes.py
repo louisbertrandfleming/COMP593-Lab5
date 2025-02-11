@@ -31,6 +31,5 @@ def main():
     paste_url = pastebin_api.pastebin_post(joke_data)
     print(paste_url)
 
-
 if __name__ == "__main__":
     main()
